@@ -1,0 +1,8 @@
+export const MOCK_PATIENTS = [
+  { id: 1, name: "Nguyễn Văn An", phone: "0912 345 678", email: "patient@mediq.ai", age: 34, gender: "Nam", status: "Chờ khám", symptoms: "Đau ngực nhẹ, hồi hộp", code: "PAT-88291", dob: "1992-05-15", address: "Cầu Giấy, Hà Nội", bloodType: "A+", joinDate: "2025-03-10" },
+  { id: 2, name: "Trần Thị Bình", phone: "0923 456 789", email: "binh.tran@gmail.com", age: 45, gender: "Nữ", status: "Đang khám", symptoms: "Đau đầu kéo dài, chóng mặt", code: "PAT-88292", dob: "1981-11-20", address: "Hoàn Kiếm, Hà Nội", bloodType: "O+", joinDate: "2025-06-22" },
+  { id: 3, name: "Phạm Quốc Cường", phone: "0934 567 890", email: "cuong.pham@gmail.com", age: 29, gender: "Nam", status: "Hoàn thành", symptoms: "Dị ứng mẩn đỏ toàn thân", code: "PAT-88293", dob: "1997-08-03", address: "Đống Đa, Hà Nội", bloodType: "B+", joinDate: "2025-09-15" },
+  { id: 4, name: "Lê Hoàng Yến", phone: "0945 678 901", email: "yen.le@gmail.com", age: 52, gender: "Nữ", status: "Chờ kết quả", symptoms: "Tăng huyết áp đột ngột", code: "PAT-88294", dob: "1974-02-28", address: "Hai Bà Trưng, Hà Nội", bloodType: "AB+", joinDate: "2026-01-05" },
+  { id: 5, name: "Vũ Minh Tú", phone: "0956 789 012", email: "tu.vu@gmail.com", age: 38, gender: "Nam", status: "Chờ khám", symptoms: "Đau bụng trên rốn", code: "PAT-88295", dob: "1988-07-14", address: "Thanh Xuân, Hà Nội", bloodType: "O-", joinDate: "2026-05-18" },
+  { id: 6, name: "Hoàng Thị Lan", phone: "0967 890 123", email: "lan.hoang@gmail.com", age: 60, gender: "Nữ", status: "Đang khám", symptoms: "Tiểu đường, khát nước nhiều", code: "PAT-88296", dob: "1966-12-10", address: "Long Biên, Hà Nội", bloodType: "A-", joinDate: "2026-07-30" },
+];
